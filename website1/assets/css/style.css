@@ -1,3 +1,27 @@
 body{
     background: #BDBDBD;
 }
+
+.tagline-container{
+    margin: 0;
+    height: 100vh;
+    background-image: url(../img/bg.jpg);
+    background-position: bottom;
+}
+
+
+.tagline-container h1{
+    margin-top: 30px;
+    font-size: 8.5rem !important;
+    text-align: center;
+}
+
+.tagline-container .colh1{
+    margin-top: 90px !important;
+}
+
+.tagline-container h3{
+    font-size: 4.75rem !important;
+    text-align: center;
+}
+
